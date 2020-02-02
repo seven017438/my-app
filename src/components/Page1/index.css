@@ -1,0 +1,68 @@
+.row.header{
+    padding: 30px 0px;
+}
+.col.header{
+    color:white;
+    font-size:32px;
+}
+.ul.navTop {
+    float: right;
+    list-style: none;
+    padding-top: 25px;
+    /* padding-bottom: 6px; */
+}
+
+.a.navTop:link, a:visited {
+    font-weight: bold;
+    color: darkgray;
+    text-align: center;
+    padding: 6px;
+    text-decoration: none;
+}
+
+.a.navTop:hover, a:active {
+    color: dimgray;
+}
+
+.li.navTop {
+    padding-left: 10px;
+    display: inline;
+}
+
+.bgimg{
+    position:absolute;
+    right:20px;
+    height: 600px;
+    /* background-color: teal; */
+}
+
+.title h1{
+    padding-top: 90px;
+    font-size: 72px;
+    float: left;
+    color: white;
+}
+
+.title h2{font-size: 56px;
+
+    float: left;
+    color: white;
+}  
+
+.title p{
+    margin-top: 10px;
+    float: left;
+    font-size: 32px;
+    color: white;
+    padding:0px;
+}
+
+#email{
+    padding-right: 10%;
+    float: right;
+    font-size: 16px;
+}
+
+#icon{
+    margin: auto 10px;
+}

@@ -1,0 +1,41 @@
+.containerpage2{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+
+.colpage2{
+    padding: 50px auto;
+    color:#333;
+}
+
+.colpage2 h3{
+    padding-top: 30px;
+    font-size: 24px;
+}
+
+.rowpage2{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.row2page2{
+    padding-top: 10px;
+    text-align: center;
+}
+
+#contenttext{
+    padding-top: 20px;
+    text-align: left;
+}
+
+.button Button{
+    /* background-color: #58B2DC;
+    border-color: #58B2DC; */
+    margin-bottom: 50px;
+}
+
+/* .button Button:hover, .button Button:active, .butto:focus{
+    background-color: #3896C3;
+    border-color: #3896C3;
+} */

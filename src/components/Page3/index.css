@@ -1,0 +1,49 @@
+.containerpage3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.rowpage3 {
+    background-image: url(img/bg-pj1.jpg);
+}
+
+.row2page3 {
+    margin-top: 20px;
+    background-image: url(img/bg-pj2.jpg);
+}
+
+.colpages3 p {
+    padding-top: 100px;
+    color: #cccccc;
+    margin-bottom: 0px;
+}
+
+#brand {
+    padding-top: 90px;
+    padding-bottom: 10px;
+    color: #cccccc;
+}
+
+.colpages3 h2 {
+    font-size: 32px;
+    color: white;
+    font-family: Impact;
+}
+
+.col2pages3 {
+    padding-top: 20px;
+}
+
+#textpage3 {
+    font-size: 16px;
+    color: white;
+}
+
+.col3pages3 button {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.yicaiimg{
+    margin-right: 40px;
+}

@@ -1,2 +1,4 @@
+# Practicing Git
 # my-app
-testing
+# my-app
+# my-app
