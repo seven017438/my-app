@@ -10,7 +10,7 @@ import phone from './img/phone.png';
 export default class Page1 extends React.Component {
     render() {
         return (
-            <Container>
+            <Container className="containerpage1">
                 <Row className="row header">
                     <Col xs="auto"  className="col header"><a href="#"><img src={logo} className="logo" alt="logo" /></a></Col>
                     <Col className="col">
@@ -39,8 +39,6 @@ export default class Page1 extends React.Component {
                             </p>
                          </Col>
                     </Col>
-                    
-
                 </Row>
             </Container>
         );
